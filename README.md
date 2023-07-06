@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/JuanMiranda1998/huddle-landing-page-frontendmentor)
-- Live Site URL: [Netlify](https://fmentor-landing-page.netlify.app/)
+- Live Site URL: [Netlify](https://fmentor-hubble-landing-page.netlify.app/)
 
 ## My process
 
